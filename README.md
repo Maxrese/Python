@@ -20,4 +20,7 @@ Importacion de librerias pandas - numpy - matplotlib.pyplot - seaborn para visua
 
 Max - 4ta Sesion / Ejercicios de Funciones - Series
 Reutilizacion de codigos - Funciones reservadas 'def' - Estructuras de control (condicionales - bucles) - 'Return' - 'None , False, True' - Booleano - Result - *args - tuples - docstring - help - con
-Series: describe - obtener libreiras - type - operaciones aritmeticas - array Numpy - serie String numerica - sort_values - NaN -  
+Series: describe - obtener libreiras - type - operaciones aritmeticas - array Numpy - serie String numerica - sort_values - NaN 
+
+Max - 5ta Sesion
+Ejercicios de practica
