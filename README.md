@@ -17,3 +17,7 @@ Max - 3ra Sesion / Ejercicios de Bucles - Prophet V2 sobre predicciones - EDA co
 Cuando queremos hacer algo más de una vez (iterar) necesitamos un bucle y Python nos ofrece dos opciones para ello: while y for
 Prophet es una de las librerías más avanzadas para predecir series temporales desarrollada por Facebook. Aprendizaje de como entrenar un modelo con Prophet, a optimizarlo y a utilizarlo para realizar predicciones futuras. Practica de como predecir el valor de Nasdaq. El Nasdaq es el acrónimo de National Association of Securities Dealers Automated Quotation y es la segunda bolsa de valores electrónica automatizada más grande de Estados Unidos. Se caracteriza por comprender las empresas de alta tecnología en electrónica, informática, telecomunicaciones, biotecnología, etc.
 Importacion de librerias pandas - numpy - matplotlib.pyplot - seaborn para visualizar datos y poder poner un ejemplo de como realizar gráficas. Para ello, la librería seaborn y matplotlib seran claves para este ejercicio. Representacion de un ejemplo de  la masa de las cargas PayloadMass respecto el número de vuelo FlightNumber segun los datos recogidfos de SpaceX
+
+Max - 4ta Sesion / Ejercicios de Funciones - Series
+Reutilizacion de codigos - Funciones reservadas 'def' - Estructuras de control (condicionales - bucles) - 'Return' - 'None , False, True' - Booleano - Result - *args - tuples - docstring - help - con
+Series: describe - obtener libreiras - type - operaciones aritmeticas - array Numpy - serie String numerica - sort_values - NaN -  
